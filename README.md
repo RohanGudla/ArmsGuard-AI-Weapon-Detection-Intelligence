@@ -1,9 +1,7 @@
 # Overview
 Automatic Detection and Recognition of Weapons in Surveillance Videos Using AI-Based System.
 
-![Integrated Logo](asset/integrated-logo-126x126-04.png)
 
-This collaborative research project involves "Integrated" and "Hong Kong Metropolitan University." It aims to design an AI-based software function that can automatically detect and recognize firearms, knives, and other weapons in streaming videos captured by surveillance cameras.
 
 # Abstract
 Security cameras and video surveillance systems play a crucial role in ensuring public safety. However, in many cities, the detection of high-risk situations through these systems is still done manually. The shortage of manpower in the security sector and human limitations can lead to undetected dangers or delays in identifying threats, posing risks to the public. In response, various parties have developed real-time and automated solutions for identifying risks in surveillance videos. This project focuses on developing a cost-effective and efficient AI-based solution for real-time weapon detection and recognition in surveillance videos across different scenarios. The system is built using TensorFlow and has been tested with a 294-second video containing seven weapons from five categories: handgun, shotgun, automatic rifle, sniper rifle, and submachine gun. At an intersection over union (IoU) value of 0.50 and 0.75, the system achieved precision scores of 0.8524 and 0.7006, respectively.
